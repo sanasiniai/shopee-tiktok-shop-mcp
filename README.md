@@ -54,6 +54,18 @@ stores on the same software.
 Priced by store count: Rp99,000 per month for up to 2 stores, Rp199,000 for up to 6, Rp299,000 for up to 12,
 25% off on annual billing, custom above 12. Every new store starts with a 7-day free trial.
 
+## Guides
+
+- [How to connect ChatGPT to your Shopee store](https://sanasiniai.com/blog/posts/connect-chatgpt-to-shopee-store/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- [How to connect Claude to TikTok Shop](https://sanasiniai.com/blog/posts/connect-claude-to-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- [How to calculate your real profit on Shopee](https://sanasiniai.com/blog/posts/how-to-calculate-shopee-selling-profit/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- Bahasa Indonesia: [Cara menghubungkan ChatGPT atau Claude ke toko Shopee](https://sanasiniai.com/blog/posts/cara-menghubungkan-chatgpt-claude-ke-shopee/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
+  [Cara menghubungkan Claude ke TikTok Shop](https://sanasiniai.com/blog/posts/cara-menghubungkan-claude-ke-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
+  [Cara menghitung profit jualan di Shopee](https://sanasiniai.com/blog/posts/cara-menghitung-profit-jualan-shopee/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- 中文: [如何把 ChatGPT 连接到 Shopee 店铺](https://sanasiniai.com/blog/posts/connect-chatgpt-to-shopee-store-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
+  [如何把 Claude 连接到 TikTok Shop](https://sanasiniai.com/blog/posts/connect-claude-to-tiktok-shop-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- Free tool: [Shopee fee calculator](https://sanasiniai.com/tools/shopee-fee-calculator?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+
 ## FAQ
 
 **Is this an official Shopee or TikTok product?** No. SanasiniAI is an independent seller tool that
