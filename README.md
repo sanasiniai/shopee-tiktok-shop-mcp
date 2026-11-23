@@ -51,8 +51,9 @@ stores on the same software.
 
 ## Pricing
 
-Priced by store count: Rp99,000 per month for up to 2 stores, Rp199,000 for up to 6, Rp299,000 for up to 12,
-25% off on annual billing, custom above 12. Every new store starts with a 7-day free trial.
+Priced by store count: Rp159,000 per month for up to 2 stores (up to 5,000 orders a month), Rp399,000 for up to 6
+(15,000 orders), Rp999,000 for up to 18 (45,000 orders), save 17% on yearly billing, custom above 18 stores.
+Every new store starts with a 7-day free trial, no card required, and each store covers the shop and its ads.
 
 ## Guides
 
