@@ -1,4 +1,4 @@
-# SanasiniAI AI Connector: Shopee and TikTok Shop MCP server for Claude and ChatGPT
+# Shopee MCP server and TikTok Shop MCP server for Claude and ChatGPT (SanasiniAI AI Connector)
 
 SanasiniAI is a remote MCP server that connects Claude or ChatGPT to your **Shopee** and **TikTok Shop**
 stores. Your AI reads live orders, products, stock, prices, ads, affiliates and profit, and it can change

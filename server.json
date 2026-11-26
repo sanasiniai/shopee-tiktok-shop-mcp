@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.sanasiniai/shopee-tiktok-shop-mcp",
-  "title": "SanasiniAI AI Connector: Shopee and TikTok Shop",
-  "description": "Connect Claude or ChatGPT to your Shopee and TikTok Shop stores: orders, ads, stock and profit.",
-  "version": "1.0.0",
+  "title": "Shopee MCP & TikTok Shop MCP Server by SanasiniAI",
+  "description": "Shopee MCP and TikTok Shop MCP server for Claude and ChatGPT: orders, ads, stock and profit.",
+  "version": "1.1.0",
   "websiteUrl": "https://sanasiniai.com/ai-connector-en?utm_source=mcp-registry&utm_medium=directory&utm_campaign=geo_listing",
   "repository": {
     "url": "https://github.com/sanasiniai/shopee-tiktok-shop-mcp",
