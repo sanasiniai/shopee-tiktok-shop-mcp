@@ -60,11 +60,13 @@ Every new store starts with a 7-day free trial, no card required, and each store
 - [Shopee MCP server: connect Claude or ChatGPT to your Shopee shop](https://sanasiniai.com/blog/posts/shopee-mcp-server/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - [How to connect ChatGPT to your Shopee store](https://sanasiniai.com/blog/posts/connect-chatgpt-to-shopee-store/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - [How to connect Claude to TikTok Shop](https://sanasiniai.com/blog/posts/connect-claude-to-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
+- [How to connect ChatGPT to TikTok Shop](https://sanasiniai.com/blog/posts/connect-chatgpt-to-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - [How to calculate your real profit on Shopee](https://sanasiniai.com/blog/posts/how-to-calculate-shopee-selling-profit/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - [Best AI tools for Shopee sellers in 2026, by job](https://sanasiniai.com/blog/posts/best-ai-tools-for-shopee-sellers/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - [How to make Shopee ads profitable: break-even ROAS](https://sanasiniai.com/blog/posts/how-to-make-shopee-ads-profitable/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - Bahasa Indonesia: [Cara menghubungkan ChatGPT atau Claude ke toko Shopee](https://sanasiniai.com/blog/posts/cara-menghubungkan-chatgpt-claude-ke-shopee/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Cara menghubungkan Claude ke TikTok Shop](https://sanasiniai.com/blog/posts/cara-menghubungkan-claude-ke-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
+  [Cara menghubungkan ChatGPT ke TikTok Shop](https://sanasiniai.com/blog/posts/cara-menghubungkan-chatgpt-ke-tiktok-shop/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Shopee MCP server untuk seller](https://sanasiniai.com/blog/posts/shopee-mcp-server-untuk-seller/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Cara menghitung profit jualan di Shopee](https://sanasiniai.com/blog/posts/cara-menghitung-profit-jualan-shopee/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Aplikasi AI untuk seller Shopee](https://sanasiniai.com/blog/posts/aplikasi-ai-untuk-seller-shopee/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
@@ -72,6 +74,7 @@ Every new store starts with a 7-day free trial, no card required, and each store
 - 中文: [如何把 ChatGPT 连接到 Shopee 店铺](https://sanasiniai.com/blog/posts/connect-chatgpt-to-shopee-store-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Shopee MCP 服务器](https://sanasiniai.com/blog/posts/shopee-mcp-server-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [如何把 Claude 连接到 TikTok Shop](https://sanasiniai.com/blog/posts/connect-claude-to-tiktok-shop-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
+  [如何把 ChatGPT 连接到 TikTok Shop](https://sanasiniai.com/blog/posts/connect-chatgpt-to-tiktok-shop-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme),
   [Shopee 卖家 AI 工具](https://sanasiniai.com/blog/posts/best-ai-tools-for-shopee-sellers-zh/?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 - Free tool: [Shopee fee calculator](https://sanasiniai.com/tools/shopee-fee-calculator?utm_source=github&utm_medium=referral&utm_campaign=geo_readme)
 
